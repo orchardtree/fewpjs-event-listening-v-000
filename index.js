@@ -4,3 +4,7 @@ function addingEventListener() {
   alert('I was clicked!');
   });
 }
+
+document.addEventListener('DOMContentLoaded', function() {
+  alert('I was clicked!');
+  });
