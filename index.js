@@ -4,8 +4,3 @@ function addingEventListener() {
   alert('I was clicked!');
   //});
 }
-
-document.addEventListener('DOMContentLoaded', function() {
-  //fetchImages();
-  addingEventListener();
-  });
