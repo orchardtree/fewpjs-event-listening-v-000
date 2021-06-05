@@ -6,5 +6,6 @@ function addingEventListener() {
 }
 
 document.addEventListener('DOMContentLoaded', function() {
+  //fetchImages();
   addingEventListener();
   });
