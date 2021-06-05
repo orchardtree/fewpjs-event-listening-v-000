@@ -6,5 +6,5 @@ function addingEventListener() {
 }
 
 document.addEventListener('DOMContentLoaded', function() {
-  alert('I was clicked!');
+  addingEventListener();
   });
